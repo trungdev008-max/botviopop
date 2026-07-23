@@ -5,19 +5,12 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "install": "npm install --production"
+    "install": "npm install"
   },
   "dependencies": {
     "node-telegram-bot-api": "^0.61.0"
   },
   "engines": {
     "node": ">=16.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/yourusername/shopcheatnt-bot.git"
-  },
-  "keywords": ["telegram", "bot", "shop", "cheat"],
-  "author": "Trung",
-  "license": "MIT"
+  }
 }
