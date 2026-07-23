@@ -1,0 +1,23 @@
+{
+  "name": "shopcheatnt-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram bán key cheat iOS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "install": "npm install --production"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/shopcheatnt-bot.git"
+  },
+  "keywords": ["telegram", "bot", "shop", "cheat"],
+  "author": "Trung",
+  "license": "MIT"
+}
